@@ -1,6 +1,6 @@
 {
 "companyName": "LariGames",
-"productName": "FixTheRocketUnity",
+"productName": "FixTheRocket",
 "productVersion": "0.1",
 "dataUrl": "publish_fixtherocket_demo.data.unityweb",
 "wasmCodeUrl": "publish_fixtherocket_demo.wasm.code.unityweb",
